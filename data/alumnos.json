@@ -1,0 +1,9 @@
+[{
+  "nombre": "Pepe",
+  "edad": 10,
+  "aficiones": [
+    { "name": "Beisbol", "level": 2 },
+    { "name": "Futbol", "level": 1 },
+    { "name": "Esgrima", "level": 10 }
+  ]
+}]
